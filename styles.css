@@ -2852,6 +2852,21 @@ body {
     text-align: center
 }
 
+.case-project-title {
+    margin: 24px 0 0;
+    font: 500 clamp(32px, 4vw, 48px)/1 var(--display);
+    letter-spacing: -.07em
+}
+
+.astra-study .case-summary {
+    margin-top: 14px;
+    font-size: clamp(18px, 2.1vw, 24px)
+}
+
+.astra-study .case-facts>div:nth-child(3) {
+    grid-column: auto
+}
+
 .about :focus-visible {
     outline-color: #53651f
 }

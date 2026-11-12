@@ -10,4 +10,8 @@ The site links to the [TradeSageAI repository](https://github.com/dcp857/TradeSa
 
 The hero uses a designed title card in place of a product screenshot. The social preview image is `assets/og-image.png` at 1200×630. Open Graph and Twitter metadata reference this image.
 
+## AstraAI
+
+Astra is a private AI chat workspace with a Python FastAPI backend, a Next.js/React/TypeScript frontend, and PostgreSQL persistence. It supports OpenAI, Anthropic, and Ollama models, streamed responses, conversation history, Markdown rendering, and attachments. It supports individual accounts with private conversation ownership. See the [AstraAI repository](https://github.com/dcp857/AstraAI).
+
 Google Fonts load from Google Fonts; system fallbacks are included. Edit colors and layout in `styles.css`.
